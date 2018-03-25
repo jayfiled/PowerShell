@@ -1,0 +1,1 @@
+powershell.exe -file "C:\Scripts\Tools\Proxy Toggler\ProxyTogglerV2.ps1"

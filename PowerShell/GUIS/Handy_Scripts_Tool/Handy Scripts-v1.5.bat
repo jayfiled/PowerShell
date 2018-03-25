@@ -1,0 +1,1 @@
+powershell.exe -file "C:\Scripts\Handy Scripts GUI\Handy_Scripts v1.5.ps1"
