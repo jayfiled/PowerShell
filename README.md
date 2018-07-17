@@ -1,10 +1,10 @@
-#PowerShell
+# PowerShell
 Quick and dirty scripts to automate basic tasks, including a nice tool to handle simple remote tasks like copying certain files to PCs, bringing up error and critical events from event viewer, seeing who's logged in, seeing what computers users have logged into last etc.
 
-##Directory Structure:
+## Directory Structure:
 
--- Powershell](https://github.com/jayfiled/PowerShell/tree/master/PowerShell)
-   -- GUIS](https://github.com/jayfiled/PowerShell/tree/master/PowerShell/GUIS)
+-- [Powershell](https://github.com/jayfiled/PowerShell/tree/master/PowerShell)
+   -- [GUIS](https://github.com/jayfiled/PowerShell/tree/master/PowerShell/GUIS)
      -- Exchange-AD-Tool_nowhereNearComplete
      -- Handy_Scripts_Tool
      -- Proxy_Toggler_Tool 
