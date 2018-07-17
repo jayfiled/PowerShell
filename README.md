@@ -3,10 +3,10 @@ Quick and dirty scripts to automate basic tasks, including a nice tool to handle
 
 ## Directory Structure:
 
--- [Powershell](https://github.com/jayfiled/PowerShell/tree/master/PowerShell)
-   -- [GUIS](https://github.com/jayfiled/PowerShell/tree/master/PowerShell/GUIS)
-     -- Exchange-AD-Tool_nowhereNearComplete
-     -- Handy_Scripts_Tool
+[Powershell](https://github.com/jayfiled/PowerShell/tree/master/PowerShell)
+   [GUIS](https://github.com/jayfiled/PowerShell/tree/master/PowerShell/GUIS)
+     Exchange-AD-Tool_nowhereNearComplete
+     Handy_Scripts_Tool
      -- Proxy_Toggler_Tool 
      -- SCCM_Tool
   -- Icons
